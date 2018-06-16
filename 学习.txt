@@ -1,0 +1,12 @@
+﻿<!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+    <meta charset="utf-8">
+    <title>图片链接</title>
+</HEAD>
+<body style="background-color: aliceblue">
+<p>图片链接：
+<a href="http://www.4399.com/">
+    <img broder="50" src="哈哈.jpg" alt="大笑" width="66 height="66"></a></p>
+</body>
+</HTML>
