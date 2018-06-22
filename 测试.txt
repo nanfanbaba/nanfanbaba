@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+    <head>
+        <style>
+        #heard {
+            background-color: black;
+            width: 600px;
+            color: white;
+            text-align: center;
+            padding:10px;
+        }
+        #nav {
+            background-color:silver;
+            float:left;
+            line-height:30px;
+            width: 100px;
+            height:300px;
+            padding: 5px
+        }
+        #int {
+            background-color: white;
+            float: left;
+            width: 400px;
+            padding: 10px;
+        }
+        #foat {
+            background-color: black;
+            color: white;
+            clear: both;
+            text-align: center;
+            width:600px;
+            padding:5px;
+        }        
+            </style>
+    </head>
+    <body>
+        <div id="heard">
+            <h1>周记</h1>
+        </div>
+        <div id="nav">
+            第一天<br>
+            第二天<br>
+            第三天<br>
+        </div>
+        <div id="int">
+            <h4>我的前端之旅</h4>
+            <p>说实话，从有想法学习前端到决定下来学习前端只经历了一天的时间，哈哈。当时也没想太多，那天正好公司派我
+                出去出差，那天是下雨的，手上拿着合同，走在大街上，在反思现在自己做的事情，算不算的上是技术，要是
+                今后出来不干了，去另外一个公司，我的工资是高还是低。
+            </p>
+            <p>很显然的一件事情，会低不会更高，所以我决定下定决心学习。</p>
+        </div>
+        <div id="foat">
+           其实还有很多话，想说，但这这是一个作业而已，哈哈 
+        </div>
+    </body>
+</html>
