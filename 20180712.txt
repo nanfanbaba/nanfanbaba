@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+        a.one:link {color:green;}
+        a.one:visited {color:rgb(39, 172, 196);}
+        a.one:hover {color:deeppink;}
+
+        a.two:link {color:green;}
+        a.two:visited {color:rgb(39, 172, 196);}
+        a.two:hover {font-size:20px;}
+
+        a.three:link {background-color:green;}
+        a.three:visited {background-color: rgb(39, 172, 196);}
+        a.three:hover {background-color:darkorange;}
+        
+        a.four:link {color: green;}
+        a.four:visited {color:rgb(39, 172, 196);}
+        a.four:hover {font-family: '微软雅黑';}
+
+        a.five:link {color:green;}
+        a.five:visited {color:rgb(39, 172, 196);}
+        a.five:hover {text-decoration: none;}
+            </style>
+    </head>
+    <body>
+        <p>有一个很大的疑问就是为什么就是link的颜色就是感觉很没存在感，为什么要添加link</p>
+        <p><b><a class="one" href="#">鼠标移过去改变了字体的颜色</a></b></p>
+        <p><b><a class="two" href="#">鼠标移过去改变了字体的大小</a></b></p>
+        <p><b><a class="three" href="#">鼠标移过去改变了背景颜色</a></b></p>
+        <p><b><a class="four" href="#">鼠标移过去改变了字体</a></b></p>
+        <p><b><a class="five" href="#">鼠标移过去改变了文本的装饰decortion</a></b></p>
+    </body>
+</html>
